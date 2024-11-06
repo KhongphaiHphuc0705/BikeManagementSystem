@@ -1,0 +1,5 @@
+B001, Giant, Taiwan
+B002, Trek, USA
+B003, Specialized, USA
+B004, Mongoose, USA
+B005, Santa Cruz, USA
